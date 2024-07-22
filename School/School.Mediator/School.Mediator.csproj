@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\School.Modules.Student.BO\School.Modules.Student.BO.csproj" />
+    <ProjectReference Include="..\School.Modules.Student.Logic\School.Modules.Student.Logic.csproj" />
+  </ItemGroup>
+
+</Project>

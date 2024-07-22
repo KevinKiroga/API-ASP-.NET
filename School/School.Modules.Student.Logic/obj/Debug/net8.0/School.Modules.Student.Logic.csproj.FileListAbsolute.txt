@@ -1,0 +1,17 @@
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.Logic.deps.json
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.Logic.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.Logic.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.AssemblyInfoInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.AssemblyInfo.cs
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\refint\School.Modules.Student.Logic.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\ref\School.Modules.Student.Logic.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.BO.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.Infraestructure.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.Infraestructure.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\bin\Debug\net8.0\School.Modules.Student.BO.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.Modules.Student.Logic.csproj.AssemblyReference.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Logic\obj\Debug\net8.0\School.M.5E1C1FC2.Up2Date

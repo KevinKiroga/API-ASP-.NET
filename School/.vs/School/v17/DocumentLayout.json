@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E386ECE9-7BBD-40D7-8641-CD364146C1C8}|School\\School.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E386ECE9-7BBD-40D7-8641-CD364146C1C8}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E386ECE9-7BBD-40D7-8641-CD364146C1C8}|School\\School.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E386ECE9-7BBD-40D7-8641-CD364146C1C8}|School\\School.csproj|solutionrelative:school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.infraestructure\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|solutionrelative:school.modules.student.infraestructure\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.infraestructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|solutionrelative:school.modules.student.infraestructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.infraestructure\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D91C0D-2F3D-4D35-A451-01FD127F7F21}|School.Modules.Student.Infraestructure\\School.Modules.Student.Infraestructure.csproj|solutionrelative:school.modules.student.infraestructure\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB175F5-9055-45EF-A036-89086262E863}|School.Modules.Student.Logic\\School.Modules.Student.Logic.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.logic\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB175F5-9055-45EF-A036-89086262E863}|School.Modules.Student.Logic\\School.Modules.Student.Logic.csproj|solutionrelative:school.modules.student.logic\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8555C74B-12EB-479D-922E-E55A33FE9AB1}|School.Modules.Student.BO\\School.Modules.Student.BO.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.bo\\contracts\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555C74B-12EB-479D-922E-E55A33FE9AB1}|School.Modules.Student.BO\\School.Modules.Student.BO.csproj|solutionrelative:school.modules.student.bo\\contracts\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB175F5-9055-45EF-A036-89086262E863}|School.Modules.Student.Logic\\School.Modules.Student.Logic.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.modules.student.logic\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB175F5-9055-45EF-A036-89086262E863}|School.Modules.Student.Logic\\School.Modules.Student.Logic.csproj|solutionrelative:school.modules.student.logic\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.mediator\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|solutionrelative:school.mediator\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.mediator\\commands\\studentdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|solutionrelative:school.mediator\\commands\\studentdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.mediator\\commands\\studentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|solutionrelative:school.mediator\\commands\\studentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|c:\\users\\kgome\\onedrive\\documentos\\asp .net core web api\\school\\school.mediator\\commands\\studentupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA46AD68-3692-4CA6-BFC5-63D843F300AB}|School.Mediator\\School.Mediator.csproj|solutionrelative:school.mediator\\commands\\studentupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School\\Program.cs",
+              "RelativeDocumentMoniker": "School\\Program.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School\\Program.cs",
+              "RelativeToolTip": "School\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:54:16.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.Infraestructure\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "School.Modules.Student.Infraestructure\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:55:54.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.BO\\Contracts\\Student\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.BO\\Contracts\\Student\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.BO\\Contracts\\Student\\IStudentRepository.cs",
+              "RelativeToolTip": "School.Modules.Student.BO\\Contracts\\Student\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:14:05.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Logic\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.Logic\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Logic\\Services\\StudentService.cs",
+              "RelativeToolTip": "School.Modules.Student.Logic\\Services\\StudentService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:12:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Logic\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.Logic\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Logic\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "School.Modules.Student.Logic\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:11:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentCommand.cs",
+              "RelativeDocumentMoniker": "School.Mediator\\Commands\\StudentCommand.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentCommand.cs",
+              "RelativeToolTip": "School.Mediator\\Commands\\StudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:51:03.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "School.Mediator\\Handlers\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "School.Mediator\\Handlers\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:42:45.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "School\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:27:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Repository\\Student\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.Infraestructure\\Repository\\Student\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Repository\\Student\\StudentRepository.cs",
+              "RelativeToolTip": "School.Modules.Student.Infraestructure\\Repository\\Student\\StudentRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:14:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "School.Modules.Student.Infraestructure\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Modules.Student.Infraestructure\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "School.Modules.Student.Infraestructure\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:43:18.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentDeleteCommand.cs",
+              "RelativeDocumentMoniker": "School.Mediator\\Commands\\StudentDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentDeleteCommand.cs",
+              "RelativeToolTip": "School.Mediator\\Commands\\StudentDeleteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:41:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentUpdateCommand.cs",
+              "RelativeDocumentMoniker": "School.Mediator\\Commands\\StudentUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\kgome\\OneDrive\\Documentos\\ASP .NET CORE WEB API\\School\\School.Mediator\\Commands\\StudentUpdateCommand.cs",
+              "RelativeToolTip": "School.Mediator\\Commands\\StudentUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:41:29.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

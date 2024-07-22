@@ -1,0 +1,11 @@
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\bin\Debug\net8.0\School.Modules.Student.BO.deps.json
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\bin\Debug\net8.0\School.Modules.Student.BO.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\bin\Debug\net8.0\School.Modules.Student.BO.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.AssemblyInfoInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.AssemblyInfo.cs
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.csproj.CoreCompileInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\refint\School.Modules.Student.BO.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\School.Modules.Student.BO.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.BO\obj\Debug\net8.0\ref\School.Modules.Student.BO.dll

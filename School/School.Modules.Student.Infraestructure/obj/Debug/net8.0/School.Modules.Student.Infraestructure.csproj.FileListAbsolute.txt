@@ -1,0 +1,15 @@
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.AssemblyInfo.cs
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\bin\Debug\net8.0\School.Modules.Student.Infraestructure.deps.json
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\bin\Debug\net8.0\School.Modules.Student.Infraestructure.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\bin\Debug\net8.0\School.Modules.Student.Infraestructure.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\bin\Debug\net8.0\School.Modules.Student.BO.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\bin\Debug\net8.0\School.Modules.Student.BO.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.M.40CBFBBB.Up2Date
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\refint\School.Modules.Student.Infraestructure.dll
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\School.Modules.Student.Infraestructure.pdb
+C:\Users\kgome\OneDrive\Documentos\ASP .NET CORE WEB API\School\School.Modules.Student.Infraestructure\obj\Debug\net8.0\ref\School.Modules.Student.Infraestructure.dll
